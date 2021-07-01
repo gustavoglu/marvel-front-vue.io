@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.00f186a8945290da3a23dac29979137a.js"
+  "/precache-manifest.b4c3ba8ece7971c77a89a6196199bf8f.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "marvel-front-vue"});
